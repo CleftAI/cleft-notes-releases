@@ -5,7 +5,7 @@
         <item>
             <title>1.0</title>
             <description><![CDATA[
-                    <h1>What's New:</h1>
+                    <h3>What's New</h3>
                     <ul>
                         <li>Fixed crash when deleting the last note.</li>
                         <li>Fixed issue where note turned to 'Untitled' immediately.</li>
@@ -19,7 +19,7 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cleftai.github.io/cleft-notes-releases/CleftInstaller.dmg" length="80762218" type="application/octet-stream"/>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="80762218" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
