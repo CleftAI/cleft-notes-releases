@@ -8,8 +8,11 @@
                     <h3>What's New</h3>
                     <ul>
                         <li>You can now edit your transcript</li>
+                         <li>Upgraded Whisper model</li>
+                          <li>Support for other langauges than English/li>
+                          <li>Auto Detect transcription language</li>
                         <li>Added dynamic loading text during transcription</li>
-                        <li>App is now compatible with Intel Mac</li>
+                        <li>App is now compatible with Intel Macs</li>
                     </ul>
                 ]]></description>
             <pubDate>Wed, 17 Feb 2024 17:36:29 -0500</pubDate>
