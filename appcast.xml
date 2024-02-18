@@ -9,7 +9,7 @@
                     <ul>
                         <li>You can now edit your transcript</li>
                          <li>Upgraded Whisper model</li>
-                          <li>Support for other langauges than English/li>
+                          <li>Support for other langauges than English</li>
                           <li>Auto Detect transcription language</li>
                         <li>Added dynamic loading text during transcription</li>
                         <li>App is now compatible with Intel Macs</li>
