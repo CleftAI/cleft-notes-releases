@@ -7,16 +7,13 @@
             <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
-                        <li>Fixed crash when deleting the last note.</li>
-                        <li>Fixed issue where note turned to 'Untitled' immediately.</li>
-                        <li>Fixed title update issue when selecting a different note quickly.</li>
-                        <li>Set Title character limit to 100.</li>
-                        <li>Now we copy the link when we click on the share button for the first time.</li>
-                        <li>Added different hover text if a public link is available.</li>
+                        <li>You can now edit your transcript</li>
+                        <li>Added dynamic loading text during transcription</li>
+                        <li>App is now compatible with Intel Mac</li>
                     </ul>
                 ]]></description>
-            <pubDate>Wed, 14 Feb 2024 17:36:29 -0500</pubDate>
-            <sparkle:version>7</sparkle:version>
+            <pubDate>Wed, 17 Feb 2024 17:36:29 -0500</pubDate>
+            <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="80762218" type="application/octet-stream"/>
