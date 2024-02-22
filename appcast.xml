@@ -14,6 +14,7 @@
                         <li>Removes box around the note itself</li>
                         <li>Summary is actually updated in the UI when you update transcript</li>
                          <li>Refresh tokens exist now for logged in users</li>
+                         <li>Reduced the overall app binary size by 50%</li>
                     </ul>
                 ]]></description>
             <pubDate>Wed, 22 Feb 2024 17:36:29 -0500</pubDate>
