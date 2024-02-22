@@ -7,16 +7,17 @@
             <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
-                        <li>You can now edit your transcript</li>
-                         <li>Upgraded Whisper model</li>
-                          <li>Support for other langauges than English</li>
-                          <li>Auto Detect transcription language</li>
-                        <li>Added dynamic loading text during transcription</li>
-                        <li>App is now compatible with Intel Macs</li>
+                        <li>Added onboarding</li>
+                         <li>About page with update feature</li>
+                          <li>Integrations setting page (Non-functional)</li>
+                          <li>Removes the static welcome note (Sorry Tyler you still can't delete it)</li>
+                        <li>Removes box around the note itself</li>
+                        <li>Summary is actually updated in the UI when you update transcript</li>
+                         <li>Refresh tokens exist now for logged in users</li>
                     </ul>
                 ]]></description>
-            <pubDate>Wed, 17 Feb 2024 17:36:29 -0500</pubDate>
-            <sparkle:version>8</sparkle:version>
+            <pubDate>Wed, 22 Feb 2024 17:36:29 -0500</pubDate>
+            <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="80762218" type="application/octet-stream"/>
