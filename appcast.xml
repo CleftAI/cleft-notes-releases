@@ -17,7 +17,7 @@
                     </ul>
                 ]]></description>
             <pubDate>Fri, 29 Feb 2024 17:36:29 -0500</pubDate>
-            <sparkle:version>10</sparkle:version>
+            <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="80762218" type="application/octet-stream"/>
