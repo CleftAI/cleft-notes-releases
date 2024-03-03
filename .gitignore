@@ -3,3 +3,7 @@
 .DS_Store
 .DS_Store
 .DS_Store
+*.certSigningRequest
+*.cer
+*.provisionprofile
+.DS_Store

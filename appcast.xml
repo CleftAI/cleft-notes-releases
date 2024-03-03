@@ -8,7 +8,7 @@
                     <h3>What's New</h3>
                     <ul>
                         <li>Select a plan during onboarding</li>
-                         <li>Keep mac awake while recording</li>
+                         <li>Keep macOS awake while recording</li>
                           <li>Manage your account</li>
                           <li>Use your own OpenAI Key</li>
                         <li>Note retry logic added</li>
@@ -17,7 +17,7 @@
                     </ul>
                 ]]></description>
             <pubDate>Fri, 29 Feb 2024 17:36:29 -0500</pubDate>
-            <sparkle:version>11</sparkle:version>
+            <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="80762218" type="application/octet-stream"/>
