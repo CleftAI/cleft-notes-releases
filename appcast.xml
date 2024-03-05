@@ -7,17 +7,17 @@
             <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
-                        <li>Select a plan during onboarding</li>
-                         <li>Keep macOS awake while recording</li>
-                          <li>Manage your account</li>
-                          <li>Use your own OpenAI Key</li>
-                        <li>Note retry logic added</li>
-                        <li>Better validation of transcripts and AI error codes</li>
-                         <li>Tons of design tweaks</li>
+                        <li>We now pass the userid to stripe during onboarding</li>
+                         <li>More design changes</li>
+                          <li>You can now right click on a note to open it in a new window</li>
+                          <li>Removed the rogue vertical line in the header</li>
+                        <li>Recording no longer pauses when you defocus the app</li>
+                        <li>Disabled settings while recording</li>
+                         <li>Fixed a design issue with the AI Preferences page</li>
                     </ul>
                 ]]></description>
-            <pubDate>Fri, 29 Feb 2024 17:36:29 -0500</pubDate>
-            <sparkle:version>13</sparkle:version>
+            <pubDate>Tue, 5 Mar 2024 17:36:29 -0500</pubDate>
+            <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="80762218" type="application/octet-stream"/>
