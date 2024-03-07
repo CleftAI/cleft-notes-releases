@@ -15,7 +15,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cleftai.github.io/cleft-notes-releases/CleftInstaller.dmg" length="70256246" type="application/octet-stream" sparkle:edSignature="IOWbsnFKfgmlQUOpBlixM0fP40ZQRWWsA7QdtysBwvvy1mWUb1Q6zfirLyTLz70UOj8Nlj6fjenL6S74FyWuAw=="/>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70256246" type="application/octet-stream" sparkle:edSignature="IOWbsnFKfgmlQUOpBlixM0fP40ZQRWWsA7QdtysBwvvy1mWUb1Q6zfirLyTLz70UOj8Nlj6fjenL6S74FyWuAw=="/>
         </item>
     </channel>
 </rss>
