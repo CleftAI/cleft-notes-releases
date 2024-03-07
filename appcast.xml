@@ -1,26 +1,21 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
- <channel>
+    <channel>
         <title>Cleft</title>
         <item>
             <title>1.0</title>
             <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
-                        <li>We now pass the userid to stripe during onboarding</li>
-                         <li>More design changes</li>
-                          <li>You can now right click on a note to open it in a new window</li>
-                          <li>Removed the rogue vertical line in the header</li>
-                        <li>Recording no longer pauses when you defocus the app</li>
-                        <li>Disabled settings while recording</li>
-                         <li>Fixed a design issue with the AI Preferences page</li>
+                        <li>Formattig buttons! (Underline doesn't do anything)</li>
+                         <li>Disable keyboard shortcuts while recording</li>
                     </ul>
                 ]]></description>
-            <pubDate>Tue, 5 Mar 2024 17:36:29 -0500</pubDate>
-            <sparkle:version>14</sparkle:version>
+            <pubDate>Thu, 07 Mar 2024 17:25:00 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="80762218" type="application/octet-stream"/>
+            <enclosure url="https://cleftai.github.io/cleft-notes-releases/CleftInstaller.dmg" length="70256246" type="application/octet-stream" sparkle:edSignature="IOWbsnFKfgmlQUOpBlixM0fP40ZQRWWsA7QdtysBwvvy1mWUb1Q6zfirLyTLz70UOj8Nlj6fjenL6S74FyWuAw=="/>
         </item>
     </channel>
 </rss>
