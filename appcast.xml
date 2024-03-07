@@ -9,10 +9,11 @@
                     <ul>
                         <li>Formattig buttons! (Underline doesn't do anything)</li>
                          <li>Disable keyboard shortcuts while recording</li>
+                         <li>CMD+N for new recording</li>
                     </ul>
                 ]]></description>
             <pubDate>Thu, 07 Mar 2024 17:25:00 -0500</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70256246" type="application/octet-stream" sparkle:edSignature="IOWbsnFKfgmlQUOpBlixM0fP40ZQRWWsA7QdtysBwvvy1mWUb1Q6zfirLyTLz70UOj8Nlj6fjenL6S74FyWuAw=="/>
