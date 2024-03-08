@@ -3,6 +3,12 @@
     <channel>
         <title>Cleft</title>
         <item>
+        <description><![CDATA[
+                    <h3>What's New</h3>
+                    <ul>
+                        <li>Added formatting buttons</li>
+                    </ul>
+                ]]></description>
             <title>1.0</title>
             <pubDate>Thu, 07 Mar 2024 17:25:00 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
