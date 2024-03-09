@@ -3,7 +3,24 @@
     <channel>
         <title>Cleft</title>
         <item>
-           <description><![CDATA[
+          <description><![CDATA[
+                    <h3>What's New</h3>
+                    <ul>
+                        <li>Fixed crash caused by undo</li>
+                        <li>Properly release mic on cancel and stop</li>
+                        <li>Experimental performance optimizations</li>
+                        <li>Transcript no longer disappears when you try to edit it</li>
+                    </ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Sat, 09 Mar 2024 12:54:01 -0500</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70262353" type="application/octet-stream" sparkle:edSignature="x+XHC8810lyaAxsmU45msEvxNctWOSqnjFMeAvy9Jz0AGt6QMykseenndGPmt1/ZwgTTbE7sUC4kH8wqW64XBA=="/>
+        </item>
+        <item>
+            <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
                         <li>Removed underline button</li>
