@@ -6,9 +6,10 @@
          <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
-                        <li>Visualizer is now a grid instead of dots</li>
-                        <li>Visualizer is less sensitive but more dynamic</li>
-                        <li>Visualizer is slower to rotate and react</li>
+                        <li>Visualizer is now a grid instad of dots</li>
+                        <li>The blob moves slower when you're not speaking</li>
+                        <li>Adjusted the sensitivity of the blob</li>
+                        <li>Visualizer is less predictable</li>
                     </ul>
                 ]]></description>
             <title>1.0</title>
@@ -16,7 +17,7 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://cleftnotes.com/CleftInstaller.dmg" length="70262819" type="application/octet-stream" sparkle:edSignature="segaR27NXoGR3XxF9vSnseK/ZOKA72pKKcIYAqe6rZ3gtEjRJpI0rirv6SePWFwpi75VmKfVbkjvtzFGZYy8Dg=="/>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70262819" type="application/octet-stream" sparkle:edSignature="segaR27NXoGR3XxF9vSnseK/ZOKA72pKKcIYAqe6rZ3gtEjRJpI0rirv6SePWFwpi75VmKfVbkjvtzFGZYy8Dg=="/>
         </item>
         <item>
             <description><![CDATA[
