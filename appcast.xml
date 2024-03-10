@@ -3,7 +3,23 @@
     <channel>
         <title>Cleft</title>
         <item>
-          <description><![CDATA[
+         <description><![CDATA[
+                    <h3>What's New</h3>
+                    <ul>
+                        <li>Visualizer is now a grid instead of dots</li>
+                        <li>Visualizer is less sensitive but more dynamic</li>
+                        <li>Visualizer is slower to rotate and react</li>
+                    </ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Sat, 09 Mar 2024 19:26:38 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://cleftnotes.com/CleftInstaller.dmg" length="70262819" type="application/octet-stream" sparkle:edSignature="segaR27NXoGR3XxF9vSnseK/ZOKA72pKKcIYAqe6rZ3gtEjRJpI0rirv6SePWFwpi75VmKfVbkjvtzFGZYy8Dg=="/>
+        </item>
+        <item>
+            <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
                         <li>Fixed crash caused by undo</li>
@@ -38,14 +54,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70261635" type="application/octet-stream" sparkle:edSignature="RgBfsEkRsZGR4s5NV05diodHJCoU/p0q2vfDoGMF5XhCQZxAiLllOCLOWaDJnWYgkSrsWO5CAlNCCphKsJhnCQ=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Thu, 07 Mar 2024 17:25:00 -0500</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70255987" type="application/octet-stream" sparkle:edSignature="jd/jFn/gE7fMeiBxFS9uwzk/md9BS94iou0F9O0BedZKEhxH9m5f4ETOaxCAb8ScHLAf3l34Bw2qbJS3WZXmBg=="/>
         </item>
     </channel>
 </rss>
