@@ -6,6 +6,22 @@
          <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
+                        <li>Adds help to the mac menu</li>
+                        <li>Bug fixes for the editor</li>
+                        <li>We now upload the audio async to improve speed of note creation</li>
+                    </ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Mon, 11 Mar 2024 21:08:31 -0400</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70244514" type="application/octet-stream" sparkle:edSignature="HRq18MhX9ij1vUdMpSoQ0LiGmstlTrqEQotF0kxTjE/ZdbI7W+F0O9Lfgqr9FHr9D7S5Hw3SE0mJrQS/NueNCQ=="/>
+        </item>
+        <item>
+            <description><![CDATA[
+                    <h3>What's New</h3>
+                    <ul>
                         <li>Visualizer is now a grid instad of dots</li>
                         <li>The blob moves slower when you're not speaking</li>
                         <li>Adjusted the sensitivity of the blob</li>
@@ -35,26 +51,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70262353" type="application/octet-stream" sparkle:edSignature="x+XHC8810lyaAxsmU45msEvxNctWOSqnjFMeAvy9Jz0AGt6QMykseenndGPmt1/ZwgTTbE7sUC4kH8wqW64XBA=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-                    <h3>What's New</h3>
-                    <ul>
-                        <li>Removed underline button</li>
-                        <li>Added link button</li>
-                        <li>Note editor now supports undo and redo</li>
-                        <li>Note editor now has spellchecker support</li>
-                        <li>Known issue that undo does not undo formatting button changes</li>
-                        <li>You can now delete your account in settings</li>
-                        <li>Made all icons vector resizeable</li>
-                    </ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Fri, 08 Mar 2024 16:04:14 -0500</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70261635" type="application/octet-stream" sparkle:edSignature="RgBfsEkRsZGR4s5NV05diodHJCoU/p0q2vfDoGMF5XhCQZxAiLllOCLOWaDJnWYgkSrsWO5CAlNCCphKsJhnCQ=="/>
         </item>
     </channel>
 </rss>
