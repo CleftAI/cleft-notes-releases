@@ -3,22 +3,12 @@
     <channel>
         <title>Cleft</title>
         <item>
-        <description><![CDATA[
-                    <h3>What's New</h3>
-                    <ul>
-                        <li>Brand new native design interface</li>
-                        <li>Formatting buttons now work with CMD+Z</li>
-                        <li>Fixed a ton of editor bugs</li>
-                        <li>Removed the right panel and playback feature</li>
-                        <li>Replaced settings with a native window and native UI</li>
-                    </ul>
-                ]]></description>
             <title>1.0</title>
             <pubDate>Tue, 26 Mar 2024 14:57:28 -0400</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70898431" type="application/octet-stream" sparkle:edSignature="PCUzTTost+LqFt9mN+Z5BrNxtEdR+OIoz1XgDDIvob9lkdHYeSyLejUygSdmiSe16DxVwiR+PlO2J07e6BdzBA=="/>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70897983" type="application/octet-stream" sparkle:edSignature="49lDAW2aAi6mtuQjcTEzQqPhPKv/aZY4QWURfLwV32is/G04FB/JQFEbPvXMCjSI1dscW+10HZA/so4CNA+nAg=="/>
         </item>
         <item>
             <description><![CDATA[
