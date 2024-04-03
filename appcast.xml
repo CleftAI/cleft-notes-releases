@@ -3,7 +3,25 @@
     <channel>
         <title>Cleft</title>
         <item>
-         <description><![CDATA[
+        <description><![CDATA[
+                    <h3>What's New</h3>
+                    <ul>
+                        <li>You can now choose to include audio or notes only in a shared note link</li>
+                        <li>The loading screen got a little upgrade</li>
+                        <li>Native share sheet added in share button</li>
+                        <li>Fixed custom OpenAI key not saving</li>
+                        <li>Custom keyboard shortcuts added for canceling recording, formatting buttons, and opening settings</li>
+                    </ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Mon, 01 Apr 2024 16:10:00 -0400</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70950265" type="application/octet-stream" sparkle:edSignature="qXG0QHukPe03rTe2Jqbb1m6NxFiEh24yWXNxPDVUxwuzoWY7gGtkV7IerGKCdVHkfgRuRLBtm3lTJtBXdZP7DA=="/>
+        </item>
+        <item>
+            <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
                         <li>Increased the size of the note action buttons</li>
@@ -25,23 +43,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70896371" type="application/octet-stream" sparkle:edSignature="tBDv6PnhA7WzUn9nPvvbxXQQSB3RLV17HR4lWZQuucvjRotiV6jLT+BewDL/mw6Syqul8qGewi967ifr0jZuAA=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-                    <h3>What's New</h3>
-                    <ul>
-                        <li>Undo now works for the formatting buttons</li>
-                        <li>Fixed a crash if you spammed the undo button</li>
-                        <li>Made the free trial 30 days instead of 7</li>
-                        <li>New toast/alert library is used</li>
-                    </ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Fri, 15 Mar 2024 16:08:05 -0400</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70747551" type="application/octet-stream" sparkle:edSignature="IBxhln5QKBklpeeVp0VJbs7Hn5bFpSyWMKXNwOEoexCJQXQjPEKjmyAIL6sWHVAjjJfhe+8cMcAks1GW4euyBA=="/>
         </item>
     </channel>
 </rss>
