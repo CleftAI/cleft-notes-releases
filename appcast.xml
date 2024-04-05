@@ -6,6 +6,24 @@
         <description><![CDATA[
                     <h3>What's New</h3>
                     <ul>
+  <li>You can now choose to copy markdown or plain text</li>
+  <li>Send the AI custom instructions in the AI Preferences Panel</li>
+  <li>We now show an alert if we have issues uploading a new note and let you retry</li>
+  <li>Removed extra space at the top and bottom of list and editor that was cutting off text</li>
+  <li>New colors and background style for the entire app</li>
+                    </ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Fri, 05 Apr 2024 18:30:06 -0400</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70959408" type="application/octet-stream" sparkle:edSignature="ggNIsClLNJKSNI4cSxV/rlFbSnhiIBtJ0nz9smDkwcbYvp01CUF25FN/RGIu0Dm2d3fy5dlt7XWMHcNCJMzfBw=="/>
+        </item>
+        <item>
+            <description><![CDATA[
+                    <h3>What's New</h3>
+                    <ul>
                         <li>You can now choose to include audio or notes only in a shared note link</li>
                         <li>The loading screen got a little upgrade</li>
                         <li>Native share sheet added in share button</li>
@@ -35,14 +53,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70880687" type="application/octet-stream" sparkle:edSignature="rl0o15SpID3DuCWpDZeOMNgF9UgocKuVN5AVY79iwtLyBs1BfD5d3uWG+ywJOaYXdaePt0DXspV4e0L4+3b4DA=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 26 Mar 2024 14:57:28 -0400</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="70896371" type="application/octet-stream" sparkle:edSignature="tBDv6PnhA7WzUn9nPvvbxXQQSB3RLV17HR4lWZQuucvjRotiV6jLT+BewDL/mw6Syqul8qGewi967ifr0jZuAA=="/>
         </item>
     </channel>
 </rss>
