@@ -3,7 +3,7 @@
     <channel>
         <title>Cleft</title>
         <item>
-         <description><![CDATA[
+        <description><![CDATA[
                     <h3>What's New</h3>
   <li>Fixed an issue where toggling between transcript and note while in the editor is active it would delete your entire transcript #352</li>
   <li>Fixed a bug where if you have Cleft launch on macOS start it wouldn't load your notes.</li>
@@ -20,7 +20,7 @@
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71904225" type="application/octet-stream" sparkle:edSignature="bTKe2MoDJKlR9JZhJn86fwR1Q/Q8GkdXQyBBpG6U+fuAtYPkN6cYuD4PAAuOn1trXsKiT8geCcoXOFbHNfgACw=="/>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="14887068" type="application/octet-stream" sparkle:edSignature="T5HuKftf6K1YJXNAiXiB3orNVK6nFrE0Dmhslsg6o+2oVvkA/lG/r1eoluX2lw9ia6y2yjXzfcQc/SZlmBJHDQ=="/>
         </item>
         <item>
             <description><![CDATA[
