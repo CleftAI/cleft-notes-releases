@@ -5,11 +5,11 @@
         <item>
         <description><![CDATA[
                     <h3>What's New</h3>
-  <li>Fixed an issue where toggling between transcript and note while in the editor is active it would delete your entire transcript #352</li>
+  <li>Fixed an issue where toggling between transcript and note while in the editor is active it would delete your entire transcript</li>
   <li>Fixed a bug where if you have Cleft launch on macOS start it wouldn't load your notes.</li>
   <li>Added voice memo play back to all platforms</li>
   <li>We now lazy load the notes list so that you can easily search all your notes locally after the app launches</li>
-  <li>Brand new transcription engine which downloads the ideal model depending on which device you are on</li>
+  <li>Added a brand new transcription engine which downloads the ideal model depending on which device you are on</li>
   <li>We now run the transcription model on Apple's Neural engine which gives transcription a 3x speed boost</li>
   <li>Due to the new way our transcription model works, the first time you launch the app Cleft will download the model and build the neural interface directly on device. This may take a little bit of time but unless the model is updated or you uninstall the app it is a 1 time process.</li>
   <li>We now have live transcription in the recording interface with support for detecting noise and silence so you are aware what the mic is picking up</li>
