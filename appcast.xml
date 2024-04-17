@@ -11,7 +11,7 @@
   <li>Fixed a bug where if you have Cleft launch on macOS start it wouldn't load your notes.</li>
   <li>Added voice memo play back to all platforms</li>
   <li>We now lazy load the notes list so that you can easily search all your notes locally after the app launches</li>
-  <li>Custom instructions now have a character limit to prevent AI conflicts. They are also now passed to the transcription engine to improve spelling and tone. This is very experimental. We may remove custom instructions and replace with a simple vocabulary and tone option or create two different settings moving forward.</li>
+  <li>Custom instructions now have a character limit to prevent AI conflicts.</li>
                 ]]></description>
             <title>1.0</title>
             <pubDate>Wed, 17 Apr 2024 16:27:34 +0100</pubDate>
