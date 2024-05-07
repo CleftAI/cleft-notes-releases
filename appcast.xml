@@ -6,6 +6,22 @@
           <description><![CDATA[
           <h3>What's New</h3>
           <ul>
+          <li>We now show transcription progress after you've recorded instead of a loading screen</li>
+                    <li>Moved copy and delete note actions insde of an overflow menu</li>
+    <li>You can now delete offline notes</li>
+</ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Tue, 07 May 2024 13:04:20 -0400</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71684282" type="application/octet-stream" sparkle:edSignature="faLed9vfKAzXjVKEygcb70O/qSZ0IiLIvZmPX3bEOMJrhFoE6ZH8+EmWd9+PaBlE93sgrzrdMowONx4gLbKuBA=="/>
+        </item>
+        <item>
+            <description><![CDATA[
+          <h3>What's New</h3>
+          <ul>
           <li>Now once you record a note, if it can't reach our servers it will save the audio and the transcript offline and let you sync it later when you have access to the internet again.</li>
     <li>Zapier Beta is available in the Integrations tab (Click Zapier in that tab to join the beta)</li>
     <li>Added a pause recording button while recording your note</li>
@@ -42,27 +58,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71160938" type="application/octet-stream" sparkle:edSignature="KvnNeCfEGp5QLqqGuSwJoDQsb69GVuUqdoye7F4jieb3vfYOBCJ30YhyMfg6JrU24oGh8eru8drdcGJIE+NVBg=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-                    <h3>What's New</h3>
-  <li>Fixed an issue where toggling between transcript and note while in the editor is active it would delete your entire transcript</li>
-  <li>Fixed a bug where if you have Cleft launch on macOS start it wouldn't load your notes.</li>
-  <li>Added voice memo play back to all platforms</li>
-  <li>We now lazy load the notes list so that you can easily search all your notes locally after the app launches</li>
-  <li>Added a brand new transcription engine which downloads the ideal model depending on which device you are on</li>
-  <li>We now run the transcription model on Apple's Neural engine which gives transcription a 3x speed boost</li>
-  <li>Due to the new way our transcription model works, the first time you launch the app Cleft will download the model and build the neural interface directly on device. This may take a little bit of time but unless the model is updated or you uninstall the app it is a 1 time process.</li>
-  <li>We now have live transcription in the recording interface with support for detecting noise and silence so you are aware what the mic is picking up</li>
-  <li>The language you select from your drop down now directly impacts transcription (i.e. we've removed auto language detection). Auto language detection will return as a setting for those of you who are bilingual, but this drastically improves transcription quality for now</li>
-  <li>Custom instructions now have a character limit to prevent AI conflicts. They are also now passed to the transcription engine to improve spelling and tone. This is very experimental. We may remove custom instructions and replace with a simple vocabulary and tone option or create two different settings moving forward.</li>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Mon, 15 Apr 2024 19:53:23 +0100</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71922414" type="application/octet-stream" sparkle:edSignature="uUdIR8Bcbg7w4q9EKBOvgdPoQPKutOEVujsGvx1nn7423i0M6RqvlE+7Fc0zMcfHo0cglDkHSPpnWZjcpVGpBA=="/>
         </item>
     </channel>
 </rss>
