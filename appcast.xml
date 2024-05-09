@@ -3,7 +3,26 @@
     <channel>
         <title>Cleft</title>
         <item>
-          <description><![CDATA[
+         <description><![CDATA[
+          <h3>What's New</h3>
+          <ul>
+          <li>New cards based UI to match mobile/li>
+                    <li>New toggle switch for viewing note or transcript</li>
+                                        <li>We moved copy and delete actions into an overflow button</li>
+    <li>Fixed infinite scroll bug on the notes list</li>
+        <li>Paid accounts are now live! Upgrade for longer recording and access to Zapier</li>
+        <li>Lots of bugs squashed around offline recordings and audio upload</li>
+</ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Wed, 08 May 2024 16:54:39 -0400</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71719962" type="application/octet-stream" sparkle:edSignature="uT660M/HKsX67E94fHwymn2+bB+Z5pyFDciXS4UmFJICU7mfZZM3bZ3QNnEBkYhC3xdzV7L0t7CYxlIUrILFBQ=="/>
+        </item>
+        <item>
+            <description><![CDATA[
           <h3>What's New</h3>
           <ul>
           <li>We now show transcription progress after you've recorded instead of a loading screen</li>
@@ -40,24 +59,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71610360" type="application/octet-stream" sparkle:edSignature="dbmgzrn3TP9nSzGK3qP9uOkxrtPFUfTJP69hJwT3U/3Hc8jCdvpwKHhxIbvKuhqTA16DVGHazikZJU88/UhZDw=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-          <li>Reverted back to old transcription engine (Sorry for the bugs folks)</li>
-                    <h3>Recently Added</h3>
-  <li>Fixed an issue where toggling between transcript and note while in the editor is active it would delete your entire transcript</li>
-  <li>Fixed a bug where if you have Cleft launch on macOS start it wouldn't load your notes.</li>
-  <li>Added voice memo play back to all platforms</li>
-  <li>We now lazy load the notes list so that you can easily search all your notes locally after the app launches</li>
-  <li>Custom instructions now have a character limit to prevent AI conflicts.</li>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Wed, 17 Apr 2024 16:27:34 +0100</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71160938" type="application/octet-stream" sparkle:edSignature="KvnNeCfEGp5QLqqGuSwJoDQsb69GVuUqdoye7F4jieb3vfYOBCJ30YhyMfg6JrU24oGh8eru8drdcGJIE+NVBg=="/>
         </item>
     </channel>
 </rss>
