@@ -10,7 +10,6 @@
                     <li>New toggle switch for viewing note or transcript</li>
                                         <li>We moved copy and delete actions into an overflow button</li>
     <li>Fixed infinite scroll bug on the notes list</li>
-        <li>Paid accounts are now live! Upgrade for longer recording and access to Zapier</li>
         <li>Lots of bugs squashed around offline recordings and audio upload</li>
 </ul>
                 ]]></description>
