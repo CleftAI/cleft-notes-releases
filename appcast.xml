@@ -5,6 +5,35 @@
         <item>
          <description><![CDATA[
           <h3>What's New</h3>
+       <ul>
+    <li>Obsidian Integration: You can now sync your clefts to a local folder in .md format. Note: Please install the Front Matter Title community plugin for the best experience with Cleft.</li>
+    <li>Image and File Uploads: You can now insert images, photos, documents, and more. These files are uploaded securely to your account which allows them to show up on published links</li>
+    <li>Language Selection: Improved language selection that ties to the input language you pick. The AI will also respond in the spoken language by default if it's able to.</li>
+    <li>30-Minute Notes: Record notes up to 30 minutes on the Plus plan.</li>
+</ul>
+<h2>Plans</h2>
+<ul>
+    <li>Basic Plan: Free plan now available.</li>
+    <li>Plus Plan: New Plus plan introduced with additional features.</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+    <li>Bluetooth Issues: Fixed tinny sound issues with certain Bluetooth earphones.</li>
+    <li>Date Issues in Notes: Resolved date-related issues in notes.</li>
+    <li>Apple Silicon Transcription: Increased speed and accuracy of transcription on Apple Silicon devices.</li>
+</ul>
+
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Wed, 15 May 2024 16:30:05 -0400</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72096788" type="application/octet-stream" sparkle:edSignature="wnrGz0uG9X/tO++/a9uUosU6z8SV/OpjSTWsT108qvbebtVImG0YcdVR/LrYMVoUuXbky/ztx1CwSKZrUDQOAw=="/>
+        </item>
+        <item>
+            <description><![CDATA[
+          <h3>What's New</h3>
           <ul>
           <li>New cards based UI to match mobile/li>
                     <li>New toggle switch for viewing note or transcript</li>
@@ -35,29 +64,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71684282" type="application/octet-stream" sparkle:edSignature="faLed9vfKAzXjVKEygcb70O/qSZ0IiLIvZmPX3bEOMJrhFoE6ZH8+EmWd9+PaBlE93sgrzrdMowONx4gLbKuBA=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-          <ul>
-          <li>Now once you record a note, if it can't reach our servers it will save the audio and the transcript offline and let you sync it later when you have access to the internet again.</li>
-    <li>Zapier Beta is available in the Integrations tab (Click Zapier in that tab to join the beta)</li>
-    <li>Added a pause recording button while recording your note</li>
-    <li>You can now CMD+F in the note editor to find and replace text</li>
-    <li>You can now download the audio file for your original voice memo from the share icon</li>
-    <li>We fixed an issue where loading all your notes at launch could cause lag on starting a new recording</li>
-    <li>We increased the default number of notes loaded to 100 (Wow you all are recording a lot of notes!)</li>
-    <li>If you're viewing the transcript you won't see a pointless Copy Markdown option anymore</li>
-    <li>If you edited the transcript it now returns you to the notes if you choose to update the notes</li>
-</ul>
-
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Wed, 01 May 2024 13:37:43 -0400</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71610360" type="application/octet-stream" sparkle:edSignature="dbmgzrn3TP9nSzGK3qP9uOkxrtPFUfTJP69hJwT3U/3Hc8jCdvpwKHhxIbvKuhqTA16DVGHazikZJU88/UhZDw=="/>
         </item>
     </channel>
 </rss>
