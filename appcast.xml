@@ -3,7 +3,36 @@
     <channel>
         <title>Cleft</title>
         <item>
-         <description><![CDATA[
+           <description><![CDATA[
+          <h3>What's New</h3>
+       <ul>
+    <li>Brand new UI for writing and viewing notes.</li>
+    <li>You can now highlight and copy formatted text in the View tab. Note you can only select one paragraph at a time</li>
+    <li>Support for more file formats when uploading and attaching files</li>
+    <li>Moved the formatting buttons into a drop down menu</li>
+    <li>Added undo and redo buttons to the writing tab</li>
+        <li>Hid the welcome note from the notes list on the left</li>
+</ul>
+<h2>Plans</h2>
+<ul>
+    <li>Basic Plan: Free plan now available.</li>
+    <li>Plus Plan: New Plus plan introduced with additional features.</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+    <li>Fixed an issue where losing network could make your note disappear</li>
+</ul>
+
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Thu, 23 May 2024 09:37:46 -0500</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72187293" type="application/octet-stream" sparkle:edSignature="Amyu4mKCCtw5pssL9PkLR/5C9e7CsU7gC/S7ARbW1bl+GWEj/WrV/G6IiNbfH5niVHj6itnsVkhGgZec5KeNDg=="/>
+        </item>
+        <item>
+            <description><![CDATA[
           <h3>What's New</h3>
        <ul>
     <li>Obsidian Integration: You can now sync your clefts to a local folder in .md format. Note: Please install the Front Matter Title community plugin for the best experience with Cleft.</li>
@@ -48,22 +77,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71719962" type="application/octet-stream" sparkle:edSignature="uT660M/HKsX67E94fHwymn2+bB+Z5pyFDciXS4UmFJICU7mfZZM3bZ3QNnEBkYhC3xdzV7L0t7CYxlIUrILFBQ=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-          <ul>
-          <li>We now show transcription progress after you've recorded instead of a loading screen</li>
-                    <li>Moved copy and delete note actions insde of an overflow menu</li>
-    <li>You can now delete offline notes</li>
-</ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Tue, 07 May 2024 13:04:20 -0400</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71684282" type="application/octet-stream" sparkle:edSignature="faLed9vfKAzXjVKEygcb70O/qSZ0IiLIvZmPX3bEOMJrhFoE6ZH8+EmWd9+PaBlE93sgrzrdMowONx4gLbKuBA=="/>
         </item>
     </channel>
 </rss>
