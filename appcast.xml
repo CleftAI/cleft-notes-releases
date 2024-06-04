@@ -3,7 +3,30 @@
     <channel>
         <title>Cleft</title>
         <item>
-        <description><![CDATA[
+           <description><![CDATA[
+          <h3>What's New</h3>
+       <ul>
+    <li>You can now archive notes instead of deleting them</li>
+    <li>We've added tagging! Each note is limited to 3, one-word tags for simplicity's sake. We may expand this once you all tell us how you're using tags or when auto-tagging goes live later.</li>
+    <li>We've upgraded search to now include a filter system for tags as well as identifiers such as Published or Archived notes.</li>
+    <li>The created date for notes will now display in the format you have on your device at an OS level./li>
+        <li>We now show the transcript instead of the note preview in the list to the left.</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+    <li>Fixed an issue where sharing a note would change the actively selected note which could cause Shortcuts to run on the wrong note content.</li>
+</ul>
+
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Sat, 01 Jun 2024 01:30:09 -0400</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72424355" type="application/octet-stream" sparkle:edSignature="PB/nD3yf54FLQu09OGLG6zjy9USwd5KKdKnHmO4+DiWMpmhrl4j+XIUOvP3cIDy5S4EBdi2qNXbXG43yVbMoDA=="/>
+        </item>
+        <item>
+            <description><![CDATA[
           <h3>What's New</h3>
        <ul>
     <li>Brand new UI for writing and viewing notes.</li>
@@ -58,40 +81,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72096788" type="application/octet-stream" sparkle:edSignature="wnrGz0uG9X/tO++/a9uUosU6z8SV/OpjSTWsT108qvbebtVImG0YcdVR/LrYMVoUuXbky/ztx1CwSKZrUDQOAw=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-          <ul>
-          <li>New cards based UI to match mobile/li>
-                    <li>New toggle switch for viewing note or transcript</li>
-                                        <li>We moved copy and delete actions into an overflow button</li>
-    <li>Fixed infinite scroll bug on the notes list</li>
-        <li>Lots of bugs squashed around offline recordings and audio upload</li>
-</ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Wed, 08 May 2024 16:54:39 -0400</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71719962" type="application/octet-stream" sparkle:edSignature="uT660M/HKsX67E94fHwymn2+bB+Z5pyFDciXS4UmFJICU7mfZZM3bZ3QNnEBkYhC3xdzV7L0t7CYxlIUrILFBQ=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-          <ul>
-          <li>We now show transcription progress after you've recorded instead of a loading screen</li>
-                    <li>Moved copy and delete note actions insde of an overflow menu</li>
-    <li>You can now delete offline notes</li>
-</ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Tue, 07 May 2024 13:04:20 -0400</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71684282" type="application/octet-stream" sparkle:edSignature="faLed9vfKAzXjVKEygcb70O/qSZ0IiLIvZmPX3bEOMJrhFoE6ZH8+EmWd9+PaBlE93sgrzrdMowONx4gLbKuBA=="/>
         </item>
     </channel>
 </rss>
