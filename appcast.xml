@@ -6,6 +6,30 @@
          <description><![CDATA[
           <h3>What's New</h3>
        <ul>
+    <li>Duplicate & Merge Notes!</li>
+    <li>CMD or Shift click to select multiple notes</li>
+     <li>Record and transcribe new notes completely offline</li>
+     <li>Use CMD+. to open the AI Preferences for easy access to Custom Instructions</li>
+     <li>Changed the free plan recording limit from 10 minutes to 3 minutes</li>
+
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>Fixed a crash that could happen if you recorded blank audio</li>
+<li>We now save your recording more reliably if transcription gets interrupted</li>
+</ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Sat, 15 Jun 2024 14:13:07 -0400</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72711017" type="application/octet-stream" sparkle:edSignature="dhb+3PVF4o4vj95tq1WSwGogtg6qkybMiZ16UfpLgPKHML8spJAzOLz4f+FkgParov/ohularVEkEeUcKio+CQ=="/>
+        </item>
+        <item>
+            <description><![CDATA[
+          <h3>What's New</h3>
+       <ul>
     <li>Added auto-complete tags when adding a new tag</li>
     <li>Better looking toast messages on macOS</li>
 </ul>
@@ -48,34 +72,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72424355" type="application/octet-stream" sparkle:edSignature="PB/nD3yf54FLQu09OGLG6zjy9USwd5KKdKnHmO4+DiWMpmhrl4j+XIUOvP3cIDy5S4EBdi2qNXbXG43yVbMoDA=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-       <ul>
-    <li>Brand new UI for writing and viewing notes.</li>
-    <li>Support for more file formats when uploading and attaching files</li>
-    <li>Moved the formatting buttons into a drop down menu</li>
-    <li>Added undo and redo buttons to the writing tab</li>
-        <li>Hid the welcome note from the notes list on the left</li>
-</ul>
-<h2>Plans</h2>
-<ul>
-    <li>Basic Plan: Free plan now available.</li>
-    <li>Plus Plan: New Plus plan introduced with additional features.</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-    <li>Fixed an issue where losing network could make your note disappear</li>
-</ul>
-
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Thu, 23 May 2024 09:37:46 -0500</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72178032" type="application/octet-stream" sparkle:edSignature="RJXUNEPGH17jXzvkJ9AYA7EqM+Z9bk9wqvfAkOuJn0dI/acNlfbb4hTsZ+fnQGztgaos5PRlL4QjfV7CoK6HAQ=="/>
         </item>
     </channel>
 </rss>
