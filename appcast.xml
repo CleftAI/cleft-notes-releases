@@ -3,35 +3,6 @@
     <channel>
         <title>Cleft</title>
         <item>
-<<<<<<< Updated upstream
-           <description><![CDATA[
-          <h3>What's New</h3>
-       <ul>
-    <li>Brand new UI for writing and viewing notes.</li>
-    <li>You can now highlight and copy formatted text in the View tab. Note you can only select one paragraph at a time</li>
-    <li>Support for more file formats when uploading and attaching files</li>
-    <li>Moved the formatting buttons into a drop down menu</li>
-    <li>Added undo and redo buttons to the writing tab</li>
-        <li>Hid the welcome note from the notes list on the left</li>
-</ul>
-<h2>Plans</h2>
-<ul>
-    <li>Basic Plan: Free plan now available.</li>
-    <li>Plus Plan: New Plus plan introduced with additional features.</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-    <li>Fixed an issue where losing network could make your note disappear</li>
-</ul>
-
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Thu, 23 May 2024 09:37:46 -0500</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72187293" type="application/octet-stream" sparkle:edSignature="Amyu4mKCCtw5pssL9PkLR/5C9e7CsU7gC/S7ARbW1bl+GWEj/WrV/G6IiNbfH5niVHj6itnsVkhGgZec5KeNDg=="/>
-=======
          <description><![CDATA[
           <h3>What's New</h3>
        <ul>
@@ -54,29 +25,11 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72711017" type="application/octet-stream" sparkle:edSignature="dhb+3PVF4o4vj95tq1WSwGogtg6qkybMiZ16UfpLgPKHML8spJAzOLz4f+FkgParov/ohularVEkEeUcKio+CQ=="/>
->>>>>>> Stashed changes
         </item>
         <item>
             <description><![CDATA[
           <h3>What's New</h3>
        <ul>
-<<<<<<< Updated upstream
-    <li>Obsidian Integration: You can now sync your clefts to a local folder in .md format. Note: Please install the Front Matter Title community plugin for the best experience with Cleft.</li>
-    <li>Image and File Uploads: You can now insert images, photos, documents, and more. These files are uploaded securely to your account which allows them to show up on published links</li>
-    <li>Language Selection: Improved language selection that ties to the input language you pick. The AI will also respond in the spoken language by default if it's able to.</li>
-    <li>30-Minute Notes: Record notes up to 30 minutes on the Plus plan.</li>
-</ul>
-<h2>Plans</h2>
-<ul>
-    <li>Basic Plan: Free plan now available.</li>
-    <li>Plus Plan: New Plus plan introduced with additional features.</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-    <li>Bluetooth Issues: Fixed tinny sound issues with certain Bluetooth earphones.</li>
-    <li>Date Issues in Notes: Resolved date-related issues in notes.</li>
-    <li>Apple Silicon Transcription: Increased speed and accuracy of transcription on Apple Silicon devices.</li>
-=======
     <li>Added auto-complete tags when adding a new tag</li>
     <li>Better looking toast messages on macOS</li>
 </ul>
@@ -87,44 +40,19 @@
     <li>Sharable link was not working when you published a note from the archive list</li>
         <li>Archived notes were missing from the Published filter</li>
 <li>Improved the onboarding/login process UI (Thanks Andy!)</li>
->>>>>>> Stashed changes
 </ul>
 
                 ]]></description>
             <title>1.0</title>
-<<<<<<< Updated upstream
-            <pubDate>Wed, 15 May 2024 16:30:05 -0400</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72096788" type="application/octet-stream" sparkle:edSignature="wnrGz0uG9X/tO++/a9uUosU6z8SV/OpjSTWsT108qvbebtVImG0YcdVR/LrYMVoUuXbky/ztx1CwSKZrUDQOAw=="/>
-=======
             <pubDate>Fri, 07 Jun 2024 14:18:28 -0400</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72447960" type="application/octet-stream" sparkle:edSignature="kdFAYwU8kVizh3dE7TckeAtoHybRM3mkHixZpEk0iB+SpOuJXAi18jtuk2GetEkgyC8iS/60nk3tZ1ZyHIB6Bw=="/>
->>>>>>> Stashed changes
         </item>
         <item>
             <description><![CDATA[
           <h3>What's New</h3>
-<<<<<<< Updated upstream
-          <ul>
-          <li>New cards based UI to match mobile/li>
-                    <li>New toggle switch for viewing note or transcript</li>
-                                        <li>We moved copy and delete actions into an overflow button</li>
-    <li>Fixed infinite scroll bug on the notes list</li>
-        <li>Lots of bugs squashed around offline recordings and audio upload</li>
-</ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Wed, 08 May 2024 16:54:39 -0400</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71719962" type="application/octet-stream" sparkle:edSignature="uT660M/HKsX67E94fHwymn2+bB+Z5pyFDciXS4UmFJICU7mfZZM3bZ3QNnEBkYhC3xdzV7L0t7CYxlIUrILFBQ=="/>
-=======
        <ul>
     <li>You can now archive notes instead of deleting them</li>
     <li>We've added tagging! Each note is limited to 3, one-word tags for simplicity's sake. We may expand this once you all tell us how you're using tags or when auto-tagging goes live later.</li>
@@ -144,7 +72,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72424355" type="application/octet-stream" sparkle:edSignature="PB/nD3yf54FLQu09OGLG6zjy9USwd5KKdKnHmO4+DiWMpmhrl4j+XIUOvP3cIDy5S4EBdi2qNXbXG43yVbMoDA=="/>
->>>>>>> Stashed changes
         </item>
     </channel>
 </rss>
