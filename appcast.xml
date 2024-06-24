@@ -3,7 +3,32 @@
     <channel>
         <title>Cleft</title>
         <item>
-         <description><![CDATA[
+           <description><![CDATA[
+          <h3>What's New</h3>
+       <ul>
+    <li>Duplicate & Merge Notes!</li>
+    <li>CMD or Shift click to select multiple notes</li>
+     <li>Record and transcribe new notes completely offline</li>
+     <li>Use CMD+. to open the AI Preferences for easy access to Custom Instructions</li>
+     <li>CMD+S now autofocuses the search input and opens the sidebar if it's closed/li>
+     <li>Changed the free plan recording limit from 10 minutes to 5 minutes</li>
+
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>Fixed a crash that could happen if you recorded blank audio</li>
+<li>We now save your recording more reliably if transcription gets interrupted</li>
+</ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Mon, 24 Jun 2024 17:55:03 -0400</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72705795" type="application/octet-stream" sparkle:edSignature="cnhAhAwnuUn4B+pkIWCjxxlUEeenipcJu2aUeIdDhW5V76xpO5ZG2uGYmh7TMO8SynnWl2kREsrI/mA/4shlBw=="/>
+        </item>
+        <item>
+            <description><![CDATA[
           <h3>What's New</h3>
        <ul>
     <li>Duplicate & Merge Notes!</li>
@@ -49,29 +74,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72447960" type="application/octet-stream" sparkle:edSignature="kdFAYwU8kVizh3dE7TckeAtoHybRM3mkHixZpEk0iB+SpOuJXAi18jtuk2GetEkgyC8iS/60nk3tZ1ZyHIB6Bw=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-       <ul>
-    <li>You can now archive notes instead of deleting them</li>
-    <li>We've added tagging! Each note is limited to 3, one-word tags for simplicity's sake. We may expand this once you all tell us how you're using tags or when auto-tagging goes live later.</li>
-    <li>We've upgraded search to now include a filter system for tags as well as identifiers such as Published or Archived notes.</li>
-    <li>The created date for notes will now display in the format you have on your device at an OS level./li>
-        <li>We now show the transcript instead of the note preview in the list to the left.</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-    <li>Fixed an issue where sharing a note would change the actively selected note which could cause Shortcuts to run on the wrong note content.</li>
-</ul>
-
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Sat, 01 Jun 2024 01:30:09 -0400</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72424355" type="application/octet-stream" sparkle:edSignature="PB/nD3yf54FLQu09OGLG6zjy9USwd5KKdKnHmO4+DiWMpmhrl4j+XIUOvP3cIDy5S4EBdi2qNXbXG43yVbMoDA=="/>
         </item>
     </channel>
 </rss>
