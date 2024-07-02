@@ -3,7 +3,31 @@
     <channel>
         <title>Cleft</title>
         <item>
-           <description><![CDATA[
+         <description><![CDATA[
+          <h3>What's New</h3>
+       <ul>
+    <li>Start a new note with just text. Paste transcripts in from other tools or just type.</li>
+    <li>You can now quickly regenerate the AI notes on demand from the 3 dot menu. Useful for getting a fresh set of notes after a merge!</li>
+    <li>New notes list design</li>
+    <li>The notes list will refresh automatically when you open from it's closed state</li>
+    <li>Tags now display on the notes list</li>
+    <li>Tags can now have spaces, capital letters, and are sorted alphabetically</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>Photos inserted into documents will now resize to fit the view.</li>
+<li>Fixed the Editor resetting if you toggled the sidebar</li>
+</ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Tue, 02 Jul 2024 16:08:14 -0400</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72787004" type="application/octet-stream" sparkle:edSignature="QBhMM9Ml2ERJvEuyh0QT+2hcLI25Esmf1U6gHKIRwHtiOkRsJPE9gokq6t1d6CrFxYwOslFVEI5NYgc8dmhrAQ=="/>
+        </item>
+        <item>
+            <description><![CDATA[
           <h3>What's New</h3>
        <ul>
     <li>Duplicate & Merge Notes!</li>
@@ -50,30 +74,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72711017" type="application/octet-stream" sparkle:edSignature="dhb+3PVF4o4vj95tq1WSwGogtg6qkybMiZ16UfpLgPKHML8spJAzOLz4f+FkgParov/ohularVEkEeUcKio+CQ=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-       <ul>
-    <li>Added auto-complete tags when adding a new tag</li>
-    <li>Better looking toast messages on macOS</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-<li>Fixed a crash that could happen when archiving or restoring notes</li>
-<li>Fixed an issue where restored notes were sorted incorrectly by date</li>
-    <li>Sharable link was not working when you published a note from the archive list</li>
-        <li>Archived notes were missing from the Published filter</li>
-<li>Improved the onboarding/login process UI (Thanks Andy!)</li>
-</ul>
-
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Fri, 07 Jun 2024 14:18:28 -0400</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72447960" type="application/octet-stream" sparkle:edSignature="kdFAYwU8kVizh3dE7TckeAtoHybRM3mkHixZpEk0iB+SpOuJXAi18jtuk2GetEkgyC8iS/60nk3tZ1ZyHIB6Bw=="/>
         </item>
     </channel>
 </rss>
