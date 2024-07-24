@@ -6,6 +6,29 @@
          <description><![CDATA[
           <h3>What's New</h3>
        <ul>
+    <li>We now notify you if Cleft hasn't heard your voice in over 5 seconds</li>
+    <li>If you’ve loaded your notes and then lose internet you can still edit the transcript or note and sync it online later</li>
+    <li>The language dropdown now has an option for Auto-Detect. Helpful for multi-lingual users!</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+<li>Fixed an issue where deleting a new note right after recording it could create an offline version of it</li>
+<li>Fixed a problem that could occur when you delete all notes inside of a tag filter</li>
+<li>Fixed a crash caused by recording multiple notes back to back to back</li>
+<li>Resolved an issue where notes were failing to load and launch properly</li>
+</ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Tue, 23 Jul 2024 13:17:38 -0400</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72883227" type="application/octet-stream" sparkle:edSignature="2iUgOizybxn9PIWKJfqLTEQGyGOXBA2dJsChkMFxldf5x3fiAlbfd9plR+qG9f0P1xi/frZqhMv9njdK6ZOPBA=="/>
+        </item>
+        <item>
+            <description><![CDATA[
+          <h3>What's New</h3>
+       <ul>
     <li>Start a new note with just text. Paste transcripts in from other tools or just type.</li>
     <li>You can now quickly regenerate the AI notes on demand from the 3 dot menu. Useful for getting a fresh set of notes after a merge!</li>
     <li>New notes list design</li>
@@ -50,30 +73,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72705795" type="application/octet-stream" sparkle:edSignature="cnhAhAwnuUn4B+pkIWCjxxlUEeenipcJu2aUeIdDhW5V76xpO5ZG2uGYmh7TMO8SynnWl2kREsrI/mA/4shlBw=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-       <ul>
-    <li>Duplicate & Merge Notes!</li>
-    <li>CMD or Shift click to select multiple notes</li>
-     <li>Record and transcribe new notes completely offline</li>
-     <li>Use CMD+. to open the AI Preferences for easy access to Custom Instructions</li>
-     <li>Changed the free plan recording limit from 10 minutes to 3 minutes</li>
-
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-<li>Fixed a crash that could happen if you recorded blank audio</li>
-<li>We now save your recording more reliably if transcription gets interrupted</li>
-</ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Sat, 15 Jun 2024 14:13:07 -0400</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72711017" type="application/octet-stream" sparkle:edSignature="dhb+3PVF4o4vj95tq1WSwGogtg6qkybMiZ16UfpLgPKHML8spJAzOLz4f+FkgParov/ohularVEkEeUcKio+CQ=="/>
         </item>
     </channel>
 </rss>
