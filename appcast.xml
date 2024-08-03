@@ -3,7 +3,30 @@
     <channel>
         <title>Cleft</title>
         <item>
-         <description><![CDATA[
+          <description><![CDATA[
+          <h3>What's New</h3>
+       <ul>
+  <li>Resolved an issue where subscription status did not always trigger UI elements correctly.</li>
+        <li>Removed noise hallucinations for better transcripts.</li>
+        <li>Added an alert and a sound for when the app cannot hear you.</li>
+        <li>New sound alerts for recording start and stop.</li>
+        <li>No longer show an active visualizer during paused recordings.</li>
+</ul>
+<h2>Bug Fixes</h2>
+<ul>
+ <li>Fixed a crash when navigating back to the list view after immediately playing a note.</li>
+        <li>Resolved an issue with downloading merged audio files.</li>
+</ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Fri, 02 Aug 2024 14:19:19 -0400</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71619353" type="application/octet-stream" sparkle:edSignature="EQKPHuC0rBSkq76t3IwUIUawYAf5MRvMNbfSdMfa2c4rZOnNbrKfw8hsQc4aqNC6LczIxG5xZpxN9eCh2hlJDQ=="/>
+        </item>
+        <item>
+            <description><![CDATA[
           <h3>What's New</h3>
        <ul>
     <li>We now notify you if Cleft hasn't heard your voice in over 5 seconds</li>
@@ -48,31 +71,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72787004" type="application/octet-stream" sparkle:edSignature="QBhMM9Ml2ERJvEuyh0QT+2hcLI25Esmf1U6gHKIRwHtiOkRsJPE9gokq6t1d6CrFxYwOslFVEI5NYgc8dmhrAQ=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-       <ul>
-    <li>Duplicate & Merge Notes!</li>
-    <li>CMD or Shift click to select multiple notes</li>
-     <li>Record and transcribe new notes completely offline</li>
-     <li>Use CMD+. to open the AI Preferences for easy access to Custom Instructions</li>
-     <li>CMD+S now autofocuses the search input and opens the sidebar if it's closed/li>
-     <li>Changed the free plan recording limit from 10 minutes to 5 minutes</li>
-
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-<li>Fixed a crash that could happen if you recorded blank audio</li>
-<li>We now save your recording more reliably if transcription gets interrupted</li>
-</ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Mon, 24 Jun 2024 17:55:03 -0400</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72705795" type="application/octet-stream" sparkle:edSignature="cnhAhAwnuUn4B+pkIWCjxxlUEeenipcJu2aUeIdDhW5V76xpO5ZG2uGYmh7TMO8SynnWl2kREsrI/mA/4shlBw=="/>
         </item>
     </channel>
 </rss>
