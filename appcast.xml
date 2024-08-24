@@ -3,7 +3,29 @@
     <channel>
         <title>Cleft</title>
         <item>
-          <description><![CDATA[
+         <description><![CDATA[
+          <h3>What's New</h3>
+      <ul>
+    <li>Add new voice recordings to existing notes! Hit that big plus button inside the note.</li>
+    <li>You can now change your name or account email in the app's settings.</li>
+    <li>Added horizontal line breaks when you merge notes or append new audio to a note.</li>
+    <li>No more interrupted thoughts. We listened (literally!) - the sensitivity has been turned down so now Cleft will only “ping” you when it can’t hear you in the first few seconds of your note.</li>
+  </ul>
+<h2>Bug Fixes</h2>
+<ul>
+    <li>If you refresh with CMD+R while viewing a note, it now updates too instead of showing the cached version.</li>
+    <li>The Obsidian plugin now works on Mac. Sorry about that everyone. We broke it at some point and now it's back to syncing properly.</li>
+  </ul>
+                ]]></description>
+            <title>1.0</title>
+            <pubDate>Fri, 23 Aug 2024 15:30:38 -0400</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71672961" type="application/octet-stream" sparkle:edSignature="TndD5buJTFBx2GP25Am860brhLQen1GFp4R95eGCkTXBvetLyv7H/+WSqV33MhOHKER1s77HJNBx4OfjkfRoAA=="/>
+        </item>
+        <item>
+            <description><![CDATA[
           <h3>What's New</h3>
        <ul>
   <li>Resolved an issue where subscription status did not always trigger UI elements correctly.</li>
@@ -47,30 +69,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72883227" type="application/octet-stream" sparkle:edSignature="2iUgOizybxn9PIWKJfqLTEQGyGOXBA2dJsChkMFxldf5x3fiAlbfd9plR+qG9f0P1xi/frZqhMv9njdK6ZOPBA=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-       <ul>
-    <li>Start a new note with just text. Paste transcripts in from other tools or just type.</li>
-    <li>You can now quickly regenerate the AI notes on demand from the 3 dot menu. Useful for getting a fresh set of notes after a merge!</li>
-    <li>New notes list design</li>
-    <li>The notes list will refresh automatically when you open from it's closed state</li>
-    <li>Tags now display on the notes list</li>
-    <li>Tags can now have spaces, capital letters, and are sorted alphabetically</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-<li>Photos inserted into documents will now resize to fit the view.</li>
-<li>Fixed the Editor resetting if you toggled the sidebar</li>
-</ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Tue, 02 Jul 2024 16:08:14 -0400</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72787004" type="application/octet-stream" sparkle:edSignature="QBhMM9Ml2ERJvEuyh0QT+2hcLI25Esmf1U6gHKIRwHtiOkRsJPE9gokq6t1d6CrFxYwOslFVEI5NYgc8dmhrAQ=="/>
         </item>
     </channel>
 </rss>
