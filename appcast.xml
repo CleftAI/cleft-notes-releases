@@ -6,6 +6,26 @@
          <description><![CDATA[
           <h3>What's New</h3>
       <ul>
+    <li>You can now password protect your shared links. After toggling this on, the link + the password will be copied to your clipboard.</li>
+    <li>After creating a note you can now have Cleft automatically copy either the link, the markdown, or both to your clipboard</li>
+  </ul>
+<h2>Bug Fixes</h2>
+<ul>
+    <li>Cleft was not letting you always create or add to a note if you had a filter selected</li>
+    <li>We fixed an issue with the mic not working the first time you try to record</li>
+  </ul>
+                ]]></description>
+            <title>1.1</title>
+            <pubDate>Tue, 03 Sep 2024 18:56:10 -0400</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71710555" type="application/octet-stream" sparkle:edSignature="5ZrBrQjPsYN/CBObqX6QV2R0a5cqz2lDKeVF4HzXld2arphZr6Tgbc6fASSwWV+Je82lD3SEhiiEY7+Y9D1zBw=="/>
+        </item>
+        <item>
+            <description><![CDATA[
+          <h3>What's New</h3>
+      <ul>
     <li>Add new voice recordings to existing notes! Hit that big plus button inside the note.</li>
     <li>You can now change your name or account email in the app's settings.</li>
     <li>Added horizontal line breaks when you merge notes or append new audio to a note.</li>
@@ -46,29 +66,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="71619353" type="application/octet-stream" sparkle:edSignature="EQKPHuC0rBSkq76t3IwUIUawYAf5MRvMNbfSdMfa2c4rZOnNbrKfw8hsQc4aqNC6LczIxG5xZpxN9eCh2hlJDQ=="/>
-        </item>
-        <item>
-            <description><![CDATA[
-          <h3>What's New</h3>
-       <ul>
-    <li>We now notify you if Cleft hasn't heard your voice in over 5 seconds</li>
-    <li>If you’ve loaded your notes and then lose internet you can still edit the transcript or note and sync it online later</li>
-    <li>The language dropdown now has an option for Auto-Detect. Helpful for multi-lingual users!</li>
-</ul>
-<h2>Bug Fixes</h2>
-<ul>
-<li>Fixed an issue where deleting a new note right after recording it could create an offline version of it</li>
-<li>Fixed a problem that could occur when you delete all notes inside of a tag filter</li>
-<li>Fixed a crash caused by recording multiple notes back to back to back</li>
-<li>Resolved an issue where notes were failing to load and launch properly</li>
-</ul>
-                ]]></description>
-            <title>1.0</title>
-            <pubDate>Tue, 23 Jul 2024 13:17:38 -0400</pubDate>
-            <sparkle:version>28</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/CleftAI/cleft-notes-releases/releases/download/production/CleftInstaller.dmg" length="72883227" type="application/octet-stream" sparkle:edSignature="2iUgOizybxn9PIWKJfqLTEQGyGOXBA2dJsChkMFxldf5x3fiAlbfd9plR+qG9f0P1xi/frZqhMv9njdK6ZOPBA=="/>
         </item>
     </channel>
 </rss>
